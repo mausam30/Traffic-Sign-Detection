@@ -23,3 +23,6 @@ Developing a traffic detection sign system tailored for lower-end vehicles, aimi
 - Advanced recognition capabilities: Enhancing the system's recognition capabilities to detect more complex traffic signs and symbols.
 - Cloud connectivity: Implementing optional cloud connectivity for data logging, updates, and analytics.
 - Collaborative mapping: Incorporating collaborative mapping features to crowdsource and update traffic sign data in real-time.
+
+## Dataset
+- https://drive.google.com/file/d/1PZTNdE95mcKe1P5nKB0NdGD8kRSUudpz/view?usp=sharing
